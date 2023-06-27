@@ -1,3 +1,4 @@
 # Dashboard
 
-https://drive.google.com/file/d/1kxWMFzLH06UDlq8V1wndsLaYsFYKpstJ/view?usp=sharing
+
+[retail data analysis (1).pdf](https://github.com/Brijesh-fadadu/Dashboards/files/11878766/retail.data.analysis.1.pdf)
